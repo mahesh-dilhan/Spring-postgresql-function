@@ -9,3 +9,7 @@ org.springframework.jdbc.core.JdbcTemplate@2f6e92ca
 <==========---> 80% EXECUTING [31s]
 
 ```
+
+```sql
+create extension -> uuid
+```
